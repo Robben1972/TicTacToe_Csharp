@@ -1,0 +1,3 @@
+D:\IT\files\с++\xoigra\xoigra\x64\Debug\xoigra.vcxproj.AssemblyReference.cache
+D:\IT\files\с++\xoigra\xoigra\x64\Debug\xoigra.MyForm.resources
+D:\IT\files\с++\xoigra\xoigra\x64\Debug\xoigra.vcxproj.GenerateResource.cache

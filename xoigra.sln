@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xoigra", "xoigra\xoigra.vcxproj", "{78D2DE8A-A088-4D71-B399-6D31508B330C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78D2DE8A-A088-4D71-B399-6D31508B330C}.Debug|x64.ActiveCfg = Debug|x64
+		{78D2DE8A-A088-4D71-B399-6D31508B330C}.Debug|x64.Build.0 = Debug|x64
+		{78D2DE8A-A088-4D71-B399-6D31508B330C}.Debug|x86.ActiveCfg = Debug|Win32
+		{78D2DE8A-A088-4D71-B399-6D31508B330C}.Debug|x86.Build.0 = Debug|Win32
+		{78D2DE8A-A088-4D71-B399-6D31508B330C}.Release|x64.ActiveCfg = Release|x64
+		{78D2DE8A-A088-4D71-B399-6D31508B330C}.Release|x64.Build.0 = Release|x64
+		{78D2DE8A-A088-4D71-B399-6D31508B330C}.Release|x86.ActiveCfg = Release|Win32
+		{78D2DE8A-A088-4D71-B399-6D31508B330C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20FA0174-7230-406B-B421-9F9415D296A2}
+	EndGlobalSection
+EndGlobal

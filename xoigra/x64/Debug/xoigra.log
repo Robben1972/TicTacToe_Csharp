@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+D:\IT\files\с++\xoigra\xoigra\MyForm.cpp(9,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  xoigra.vcxproj -> D:\IT\files\с++\xoigra\x64\Debug\xoigra.exe
